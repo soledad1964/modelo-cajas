@@ -1,0 +1,27 @@
+.contenedor {
+
+	width: 600px;
+    height: 150px; 
+    background-color: pink;
+    border-left: 10px solid #660984;
+    border-right: 10px solid #660984;
+    border-top: 20px solid #660984;
+    border-bottom: 20px solid #660984;
+    padding-left: 40px;
+    padding-right: 15px;
+       }
+
+
+.texto {
+
+	border: 1px dashed #000;
+	margin-top: 20px;
+	background-color: white;
+	text-align: center;
+
+div {
+      
+}
+
+}
+
